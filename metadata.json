@@ -1,0 +1,6 @@
+{
+  "name": "GLANZ Skincare - Pure Radiance",
+  "description": "Thương hiệu mỹ phẩm cao cấp GLANZ - Tinh hoa phục hồi ánh sáng làn da tự nhiên chuẩn da liễu Thụy Sĩ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
